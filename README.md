@@ -1,5 +1,5 @@
-# Just Collect, Don't Filter
-Annotations for German Tweets, dataset for [Möhle et al (2023) "Just Collect, Don’t Filter: Noisy Labels Do Not Improve Counterspeech Collection for Languages Without Annotated Resources"](https://aclanthology.org/2023.cs4oa-1.4/)
+# Annotations for German Tweets
+Dataset for [Möhle et al (2023) "Just Collect, Don’t Filter: Noisy Labels Do Not Improve Counterspeech Collection for Languages Without Annotated Resources"](https://aclanthology.org/2023.cs4oa-1.4/)
 
 If you use these annotations in your work, please cite the paper:
 
